@@ -43,7 +43,7 @@ https://raphaelasanti.github.io/phoenix/
 **Question:** How many Holy Angels of the Lord does it take to dematerialize an entire universe?  
 **Answer:** Only one — and only at the Command of God Almighty.
 
-Because Divine Authority is not descretionary authority.
+**Why?** Because Divine Authority is not descretionary authority.
 
 ---
 

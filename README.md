@@ -48,6 +48,6 @@ Because Divine Authority is not descretionary authority.
 ---
 
 **Free Ebook**  
-The Hol (Jewish phoenix) is also discussed here:  
+The Hol/Chol (Jewish phoenix) is also discussed here:  
 https://github.com/raphaelasanti/the-end-of-time/
 

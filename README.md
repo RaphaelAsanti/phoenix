@@ -1,4 +1,4 @@
-## Final Ultimatum
+## The Finality
 
 A concise structural overview of the final index page that anchors the entire body of work.
 

@@ -8,6 +8,9 @@ This page represents the **Hol/Chol** root — the unified phoenix identity whos
 This page functions as the definitive hub: the fixed structural ultimatum that links, frames, and concludes the surrounding repositories.
 
 ---
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nd/4.0/)
+[![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-green.svg)](https://raphaelasanti.github.io/phoenix/)
+---
 
 ### Files
 - **index.html — Primary page (HTML)**  

@@ -38,4 +38,4 @@ curl -X POST \
   -d "$JSON" \
   "https://api.indexnow.org/indexnow"
 
-echo "IndexNow submission sent.
+echo "IndexNow submission sent."
